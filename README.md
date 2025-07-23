@@ -1,1 +1,1 @@
-#Optimization of trade risk using visual graphs.
+# Optimization of trade risk using visual graphs.
